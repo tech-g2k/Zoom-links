@@ -1,0 +1,55 @@
+# Site settings
+title: G2K Zoom Links
+email: tech@gateway2khmer.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner:
+email:
+facebook_username:
+twitter_username:
+github_username:
+address:
+  - line:
+  - line:
+  # Feel free to add more lines here 
+telephone:
+copyright: G2K, Gateway2Khmer.
+
+# API settings
+google_api_key:
+
+# Build settings
+markdown: kramdown
+
+# Zoom classroom links full-time classes
+FTLV1-i5-20 : https://zoom.us/j/94458623223?pwd=WjZuV3ZreVNFdnNrR0c0SlFEcml2UT09
+FTLV2-i5-20 : https://zoom.us/j/96656176747?pwd=eWQ1ZW1zY3FDRE50bTZNVllZT3luZz09
+FTLV3-i5-20 : https://zoom.us/j/94118234613?pwd=QThuV3lJdXlnV3NrMU1FZVJhMUIwdz09
+FTLV4-i5-20 : https://zoom.us/j/99255426753?pwd=aXZxT1VPMTBtU2JnbVJRU211ckhDZz09
+FTLV5-i5-20 : https://zoom.us/j/98442135829?pwd=Um4xRGtpUHROOWVWR2FiVGs1OHhBdz09
+FTLV6-i5-20 : https://zoom.us/j/96201164368?pwd=WWh5b3Jtc2Q2STZ1eENrS1RxamVmdz09
+# Zoom classroom links part-time Christian Study
+PTCS1A-i5-20 : https://zoom.us/j/93557054465?pwd=TVBqSDZLeFFNenJybHBXeFk5QlBUdz09
+PTCS1B-i5-20 : https://zoom.us/j/96358319168?pwd=WFpGdmMvb1dtNEN4dXlCVmorcm1oUT09
+# Zoom classroom links part-time
+PTL1A-i5-20 : https://zoom.us/j/92807329082?pwd=b0JqSkRiUUNEb09hL0pBYWtyc3Zvdz09
+PTL1B-i5-20 : https://zoom.us/j/97408945927?pwd=ZDVVVHpPSElCNGZkWWdvNkVUVkpTdz09
+PTL2A-i5-20 : https://zoom.us/j/94058653262?pwd=eFJrc0RETnBGaFZNM1ZiZ3kwUUJNZz09
+PTL3A-i5-20 : https://zoom.us/j/98723341445?pwd=WjZEdmlES0NmTkVmbUU1Z1ZzcngwZz09
+PTL3B-i5-20 : https://zoom.us/j/93885876511?pwd=VG5vMElzUmZMeU1rTWJadHBBd2tjZz09
+PTL4A-i5-20 : https://zoom.us/j/95546095321?pwd=bXppVTlaVDFiN2lDa0xOUWI0dG8zQT09
+PTL6A-i5-20 : https://zoom.us/j/93087125021?pwd=UTJhL0tjY1cyYitLdVRLaVJjd2Y2dz09
+# Zoom classroom links evening classes
+EVL1A-i5-20 : https://zoom.us/j/94359249790?pwd=SUQxeFFCaW1XSzFkZmx1R0JJQmNiQT09
+EVL1B-i5-20 : https://zoom.us/j/94340526806?pwd=ZFFWdWh4bkhLUXhGMDVrSjRRcGdFUT09
+EVL2A-i5-20 : https://zoom.us/j/91661136396?pwd=Tm9HV0F3TUUxMS9pL2tzTWlMa014QT09
+EVL2B-i5-20 : https://zoom.us/j/99919118079?pwd=S1MyVmRsbXp2N3NCWm9hQWZqVFhKdz09
+EVL3A-i5-20 : https://zoom.us/j/96862704694?pwd=UkRwd3lXeVVUQ1N6b0FxYmE1U2Z2Zz09
+EVL4A-i5-20 : https://zoom.us/j/91740153461?pwd=OUpwV09KT21RTElxVDNkZXpSMlIxZz09
+
