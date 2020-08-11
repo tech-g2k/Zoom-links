@@ -28,15 +28,29 @@ google_api_key:
 markdown: kramdown
 
 # Zoom classroom links full-time classes
-FTLV1-i5-20 : https://zoom.us/j/94458623223?pwd=WjZuV3ZreVNFdnNrR0c0SlFEcml2UT09
-FTLV2-i5-20 : https://zoom.us/j/96656176747?pwd=eWQ1ZW1zY3FDRE50bTZNVllZT3luZz09
-FTLV3-i5-20 : https://zoom.us/j/94118234613?pwd=QThuV3lJdXlnV3NrMU1FZVJhMUIwdz09
-FTLV4-i5-20 : https://zoom.us/j/99255426753?pwd=aXZxT1VPMTBtU2JnbVJRU211ckhDZz09
-FTLV5-i5-20 : https://zoom.us/j/98442135829?pwd=Um4xRGtpUHROOWVWR2FiVGs1OHhBdz09
-FTLV6-i5-20 : https://zoom.us/j/96201164368?pwd=WWh5b3Jtc2Q2STZ1eENrS1RxamVmdz09
-# Zoom classroom links part-time Christian Study
-PTCS1A-i5-20 : https://zoom.us/j/93557054465?pwd=TVBqSDZLeFFNenJybHBXeFk5QlBUdz09
-PTCS1B-i5-20 : https://zoom.us/j/96358319168?pwd=WFpGdmMvb1dtNEN4dXlCVmorcm1oUT09
+ft-1a-text : FT-1A-i6-20
+ft-1a-link : https://zoom.us/j/94436208202?pwd=ZXZUWm0yQ2E1bHFJOUxXV3V6a01QUT09
+ft-1b-text : FT-1B-i6-20
+ft-1b-link : https://zoom.us/j/94334894369?pwd=WFA5ZXNHQ0c4eWpFUVlkTm5jS1d1Zz09
+ft-2-text : FT-2-i6-20
+ft-2-link : https://zoom.us/j/95037173417?pwd=SDlaMHl4MXFQY2RqS0VyazUrZnZvUT09
+ft-3-text : FT-3-i6-20
+ft-3-link : https://zoom.us/j/96881517728?pwd=b2lGeHlkaVBiSGYxWmljV2gvQkJkQT09
+ft-4-text : FT-4-i6-20
+ft-4-link : https://zoom.us/j/97401212748?pwd=SDFicGtid2JqYk1peTZPU1JITGdNQT09
+ft-5-text : FT-5-i6-20
+ft-5-link : https://zoom.us/j/93849409606?pwd=Mm84U3hYdlNCMzIwS3J4QmlxcUVDZz09
+ft-6-text : FT-6-i6-20
+ft-6-link : https://zoom.us/j/91524566636?pwd=ejlEanhNNmhWb3VrTUlQYjZ2cVBnZz09
+ft-7-text : FT-7-i6-20
+ft-7-link : https://zoom.us/j/96096545224?pwd=c2xSN0k3cXN5MEV4SmtDNDBLUjNrQT09
+
+# Zoom classroom links Christian Study
+cs-2-text : CS-2-i6-20
+cs-2-link : 
+ks-text : KS-i6-20
+ks-link : 
+
 # Zoom classroom links part-time
 PTL1A-i5-20 : https://zoom.us/j/92807329082?pwd=b0JqSkRiUUNEb09hL0pBYWtyc3Zvdz09
 PTL1B-i5-20 : https://zoom.us/j/97408945927?pwd=ZDVVVHpPSElCNGZkWWdvNkVUVkpTdz09
@@ -45,6 +59,7 @@ PTL3A-i5-20 : https://zoom.us/j/98723341445?pwd=WjZEdmlES0NmTkVmbUU1Z1ZzcngwZz09
 PTL3B-i5-20 : https://zoom.us/j/93885876511?pwd=VG5vMElzUmZMeU1rTWJadHBBd2tjZz09
 PTL4A-i5-20 : https://zoom.us/j/95546095321?pwd=bXppVTlaVDFiN2lDa0xOUWI0dG8zQT09
 PTL6A-i5-20 : https://zoom.us/j/93087125021?pwd=UTJhL0tjY1cyYitLdVRLaVJjd2Y2dz09
+
 # Zoom classroom links evening classes
 EVL1A-i5-20 : https://zoom.us/j/94359249790?pwd=SUQxeFFCaW1XSzFkZmx1R0JJQmNiQT09
 EVL1B-i5-20 : https://zoom.us/j/94340526806?pwd=ZFFWdWh4bkhLUXhGMDVrSjRRcGdFUT09
