@@ -104,6 +104,7 @@ h1 {
 .push {
   position: relative;
   font-weight: 500;
+  font-size: 18px;
   background-color: #384D9D;
   border-radius: 0.6em;
   display: inline-block; 
