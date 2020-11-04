@@ -29,7 +29,7 @@ google_api_key:
 # Build settings
 markdown: kramdown
 
-# Zoom classroom links full-time classes
+# Zoom classroom links full-time classes intake 7:
 ft-l1-ln : https://zoom.us/j/91642595840?pwd=MnBMR1BLT0dVdDgzSHJjOENJRkF1Zz09
 ft-l1-tx : FT-L1-i7-20
 ft-l2-ln : https://zoom.us/j/96762214269?pwd=aTFwOUVrL2QyRllDSEVUVzBBWi9QQT09
@@ -42,6 +42,23 @@ ft-l5-ln : https://zoom.us/j/97206514653?pwd=U1lHV2ZPaXFpMzM2M09JUG54eUhFQT09
 ft-l5-tx : FT-L5-i7-20
 ft-l7-ln : https://zoom.us/j/92323459108?pwd=aDNQQXFsNkZRRGJKYnV2aEY2Vi9EQT09
 ft-l7-tx : FT-L7-i7-20
+# Zoom classroom links full-time classes intake 8:
+ft-1-ln : https://zoom.us/j/95341947989?pwd=b0tMbm05K2poOXdPNm5XM0s5dVplZz09
+ft-1-tx : FT-1A-i8-20
+ft-2-ln : https://zoom.us/j/97046180578?pwd=RUp1eVZHTW9YRzdSV3VjZXZxbW14UT09
+ft-2-tx : FT-1B-i8-20
+ft-3-ln : https://zoom.us/j/99990206507?pwd=VGVIWWZ0ak5SUHplNFlVR0oyN3BKUT09
+ft-3-tx : FT-2-i8-20
+ft-4-ln : https://zoom.us/j/99899431067?pwd=TFdTdWhCV29Sc0VTcXFTdlpUT0pPQT09
+ft-4-tx : FT-3-i8-20
+ft-5-ln : https://zoom.us/j/98700367402?pwd=V09nWmRldE5BYXh5Tjc2TFBHSE80QT09
+ft-5-tx : FT-4-i8-20
+ft-6-ln : https://zoom.us/j/91348306661?pwd=OHFKS3ZjTjBXVTJhOExXOFRmTXhXZz09
+ft-6-tx : FT-5-i8-20
+ft-7-ln : https://zoom.us/j/93014712031?pwd=OS9DaFpTYWlLR0FNTEJ5NnJMb3RzZz09
+ft-7-tx : FT-6-i8-20
+ft-9-ln : https://zoom.us/j/94971947980?pwd=bCtiNWE2SzFIc1k5anRuTlFPdEdmdz09
+ft-9-tx : FT-8-i8-20
 
 # Zoom classroom links Christian Study
 ks-i7-ln : https://zoom.us/j/97337701712?pwd=cmozQk1hQXZ6TDlpZFNMWVhzVzcrQT09
