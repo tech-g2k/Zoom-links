@@ -29,6 +29,12 @@ google_api_key:
 # Build settings
 markdown: kramdown
 
+# Zoom classroom links Christian Study
+ks-i7-ln : https://zoom.us/j/97337701712?pwd=cmozQk1hQXZ6TDlpZFNMWVhzVzcrQT09
+ks-i7-tx : KS-i7-20
+ev-hc-ln : https://zoom.us/j/95976103560?pwd=T0syYmYzcU1saFhOQ25HbFdKbWtFZz09
+ev-hc-tx : EV-HC-i7-20
+
 # Zoom links for i1 & i2, 2021
 ft-l1-ln : https://zoom.us/j/96821178066?pwd=ZzFyNE12VVA5V1dTTHBra1h3VHNnZz09
 ft-l1-tx : FT-L1-i2-21
