@@ -29,52 +29,45 @@ google_api_key:
 # Build settings
 markdown: kramdown
 
-# Zoom classroom links Christian Study
-ks-i7-ln : https://zoom.us/j/97337701712?pwd=cmozQk1hQXZ6TDlpZFNMWVhzVzcrQT09
-ks-i7-tx : KS-i7-20
-ev-hc-ln : https://zoom.us/j/95976103560?pwd=T0syYmYzcU1saFhOQ25HbFdKbWtFZz09
-ev-hc-tx : EV-HC-i7-20
+# Zoom links for i3 & i4, 2021
+ft-text1 : FT-L1-i3-21
+ft-text3 : FT-L3-i3-21
+ft-text4 : FT-L4-i3-21
+ft-text5 : FT-L5-i3-21
+ft-text6 : FT-L6-i3-21
+ft-text7 : FT-L7-i3-21
+ft-text10 : FT-L10-i3-21
+ft-link1 : https://zoom.us/j/96233684908?pwd=OUJKWmZCYk1BbjVnV2RHVG1PSExSQT09
+ft-link3 : https://zoom.us/j/92881785740?pwd=RGdpczR3amlBc3EvQjYzK1g1cWhLUT09
+ft-link4 : https://zoom.us/j/93015353108?pwd=TUNsN2RNWktFK3c1bkYyV2tmNU91QT09
+ft-link5 : https://zoom.us/j/96327435455?pwd=T25nSWZQWEJraVMvRFNrbU1mQUVpdz09
+ft-link6 : https://zoom.us/j/99378246099?pwd=R2tWQnBWQXVyZVA1dkh4YkhYOVN5UT09
+ft-link7 : https://zoom.us/j/96436654628?pwd=M2cvRlI1Q1Z6QndOTHZpTHpHYkRmUT09
+ft-link10 : https://zoom.us/j/92027610354?pwd=SmpzOFZJdlF2enc1djRJRXBtUHBxUT09
 
-# Zoom links for i1 & i2, 2021
-ft-l1-ln : https://zoom.us/j/96821178066?pwd=ZzFyNE12VVA5V1dTTHBra1h3VHNnZz09
-ft-l1-tx : FT-L1-i2-21
-ft-l2-ln : https://zoom.us/j/93895029355?pwd=b3pqRFYzQ2tPd2Z2M1c3MmpwaWc1QT09
-ft-l2-tx : FT-L2-i2-21
-ft-l3-ln : https://zoom.us/j/98801723901?pwd=d0U4WHczejQxMEZzbkJQcGlZQmdJZz09
-ft-l3-tx : FT-L3-i2-21
-ft-l5-ln : https://zoom.us/j/99964102700?pwd=TVBqSDZLeFFNenJybHBXeFk5QlBUdz09
-ft-l5-tx : FT-L5-i2-21
-ft-l6-ln : https://zoom.us/j/91548903667?pwd=ZzFWOEpmVzMzOWUzZXNaeFc5d085dz09
-ft-l1-tx : FT-L6-i2-21
-ft-i8-ln : https://zoom.us/j/98148588093?pwd=U3Z6VlNsTnUxOXd1RVJIR2tCN3hHQT09
-ft-i8-tx : FT-L8-i2-21
-ft-l9-ln : https://zoom.us/j/99649083151?pwd=a21XZERJMzltR29YQTFUcmdXVVFWQT09
-ft-l9-tx : FT-L9-i2-21
+pt-text1 : PT-L1A-i3-21
+pt-text2 : PT-L2-i3-21
+pt-text3 : PT-L3-i3-21
+pt-text5 : PT-L5-i3-21
+pt-text6 : PT-L6-i3-21
+pt-text8 : PT-L8-i3-21
+pt-text9 : PT-L9-i3-21
+ft-link1 : https://zoom.us/j/99240205157?pwd=ZEsrcWNYUVZ0SU1KRHRadjdvRU8zUT09
+ft-link2 : https://zoom.us/j/92856648038?pwd=L3NsNVRpOXpqcS8rWTkwZVNiSS9Kdz09
+ft-link3 : https://zoom.us/j/93942590800?pwd=STZLbklFQVRzZ3hNWHEvdXRnR25Hdz09
+ft-link5 : https://zoom.us/j/94921484481?pwd=ZXR4SjhLT3RUa2IwVW0yY2JZUUZOZz09
+ft-link6 : https://zoom.us/j/93903864067?pwd=UHFjZC9QRDE4WmtiV3hxQ1JkZW5ZQT09
+ft-link8 : https://zoom.us/j/98579368709?pwd=dTl0NkNoMmNLbkpCQkZFLzZlQllRdz09
+ft-link9 : https://zoom.us/j/96507212302?pwd=NlJTb1NxSlVGNzJneExESCtmckszdz09
 
-pt-l1-ln : https://zoom.us/j/94338591298?pwd=R3ZEbmRKWDBqbEFWeUVjUkU4SUFzZz09
-pt-l1-tx : PT-L1-i1-21
-pt-l2-ln : https://zoom.us/j/98511768477?pwd=VlZUcktXcFVkMHlyUlBZSkUvQWphdz09
-pt-l2-tx : PT-L2-i1-21
-pt-l4-ln : https://zoom.us/j/98218273190?pwd=STZLbklFQVRzZ3hNWHEvdXRnR25Hdz09
-pt-l4-tx : PT-L4-i1-21
-pt-l5-ln : https://zoom.us/j/95355255971?pwd=YmhzdzJvUmFobC9mWHF1VXVxajUvUT09
-pt-l5-tx : PT-L5-i1-21
-pt-l7-ln : https://zoom.us/j/99184303257?pwd=R05qaFU0cDFVK3pnVWFkUVpKdTIvZz09
-pt-l7-tx : PT-L7-i1-21
-pt-l8-ln : https://zoom.us/j/93580956483?pwd=bWE3UFd3SlJRY25RZGg4eit5Z0dzQT09
-pt-l8-tx : PT-L8-i1-21
-pt-l9-ln : https://zoom.us/j/96480984716?pwd=Q1BRMy95QkZpcHVFRlBUZkR4T0FoZz09
-pt-l9-tx : PT-L9-i1-21
-pt-l10-ln : https://zoom.us/j/97824538316?pwd=ejRMblN3SnNoOEtmTDl0a1NjN1BqQT09
-pt-l10-tx : PT-L10-i1-21
+ev-text1 : EV-L1A-i3-21
+ev-text1b : EV-L1B-i3-21
+ev-text2 : EV-L2-i3-21
+ev-text3 : EV-L3-i3-21
+ev-text5 : EV-L5-i3-21
+ev-link1 : https://zoom.us/j/91299370386?pwd=US81ajlWNUs0aDg3cHVHNUMxRFJyZz09
+ev-link1b : https://zoom.us/j/93630712385?pwd=VlZUcktXcFVkMHlyUlBZSkUvQWphdz09
+ev-link2 : https://zoom.us/j/97415045442?pwd=RmhkSnFoaTZQdUxnWUUyUE9zbGZ3Zz09
+ev-link3 : https://zoom.us/j/96308914120?pwd=MlZvM1V4Rm03eVVFak0zUk5XaVZWdz09
+ev-link5 : https://zoom.us/j/91466805602?pwd=aUIwZlZzUXd3STlXVHVtVm40REh0dz09
 
-ev-l1-ln : https://zoom.us/j/97695366948?pwd=RUxFQm16d1NDczBObzVBZDRnVURodz09
-ev-l1-tx : EV-L1A-i1-21
-ev-l1b-ln : https://zoom.us/j/93997240755?pwd=cy9FWFF0L2MrRTRGWVJ3ekFnMUo3QT09
-ev-l1b-tx : EV-L1B-i1-21
-ev-l2-ln : https://zoom.us/j/98514896579?pwd=a21XZERJMzltR29YQTFUcmdXVVFWQT09
-ev-l2-tx : EV-L2-i1-21
-ev-l4-ln : https://zoom.us/j/93769465983?pwd=S1dDQlVKZlFNNzVHejg3a3paOFpNdz09
-ev-l4-tx : EV-L4-i1-21
-ev-l5-ln : https://zoom.us/j/99284175168?pwd=YzVvaUF5Nnp4U3l5bUZvdFRwbkVQZz09
-ev-l5-tx : EV-L5-i1-21
