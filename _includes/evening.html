@@ -1,34 +1,16 @@
 <div class="wrap">
     <h2>Evening Classes:</h2>
     <ul class="buttons">
-        <li class="buttons__item">
-            <a href="{{ site.ev-link1 }}" class="push">
-                <span class="push__inner">{{ site.ev-text1 }}</span>
-            </a>
-        </li>
-        <li class="buttons__item">
-            <a href="{{ site.ev-link1b }}" class="push">
-                <span class="push__inner">{{ site.ev-text1b }}</span>
-            </a>
-        </li>
-        <li class="buttons__item">
-            <a href="{{ site.ev-link2 }}" class="push">
-                <span class="push__inner">{{ site.ev-text2 }}</span>
-            </a>
-        </li>
-    </ul>
-    <span> <br> </span>
-    <ul class="buttons">
-        <li class="buttons__item">
-            <a href="{{ site.ev-link3 }}" class="push">
-                <span class="push__inner">{{ site.ev-text3 }}</span>
-            </a>
-        </li>
-        <li class="buttons__item">
-            <a href="{{ site.ev-link5 }}" class="push">
-                <span class="push__inner">{{ site.ev-text5 }}</span>
-            </a>
-        </li>
+        {% for item in site.data.evening %}
+            <li class="buttons__item">
+                <a href="{{ item.link }}" class="push">
+                    <span class="push__inner">{{ item.class }}</span>
+                </a>
+            </li>
+            {% if forloop.index == 3 or forloop.index == 6 or forloop.index == 9 %}
+                </ul> <br>
+                <ul class="buttons">
+            {% endif %}
+        {% endfor %}
     </ul>
 </div>
-
