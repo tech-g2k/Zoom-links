@@ -21,6 +21,13 @@ h1 {
   text-align: center;
 }
 
+.wrap p{
+  color: #384D9D;
+  text-align: center;
+  font-size: 12px;
+}
+
+
 .wrap {
   /*min-height: 25vh;*/
   display: flex;
