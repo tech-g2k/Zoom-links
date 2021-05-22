@@ -1,9 +1,16 @@
 <div class="wrap">
     <h2>Christian Study & Kick Start:</h2>
     <ul class="buttons">
-        <li class="buttons__item">
-            <a class="shiney" href={{ site.ks-i7-ln }} >{{ site.ks-i7-tx }}</a>
-        </li>
+        {% for item in site.data.christian-study %}
+            <li class="buttons__item">
+                <a class="shiney" href={{ item.link }} >{{ item.class }}</a>
+            </li>
+            {% assign remainder = forloop.index | modulo: 3 %}
+            {% if remainder == 0 %}
+                </ul> <br>
+                <ul class="buttons">
+            {% endif %}
+        {% endfor %}
     </ul>
 </div>
 
