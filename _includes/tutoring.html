@@ -1,15 +1,12 @@
 <div class="wrap">
-    <br>
-    <h1>Zoom links to G2K classes</h1>
-     {% include break-line.html %}
-    <h2>Full-Time Classes:</h2>
+    <h2>Tutoring Classes:</h2>
     <ul class="buttons">
-        {% for item in site.data.full-time %}
+        {% for item in site.data.tutoring %}
             <li class="buttons__item">
                 <a class="shiney" href={{ item.link }} >{{ item.class }}</a>
             </li>
             {% assign remainder = forloop.index | modulo: 3 %}
-            {% if remainder == 0 %}
+            {% if remainder == 0 %} 
                 </ul> <br>
                 <ul class="buttons">
             {% endif %}
